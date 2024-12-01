@@ -10,3 +10,6 @@ $$\boxed{\frac{\partial ^{2} y}{\partial t^{2}}+\gamma\frac{\partial y}{\partial
 **The next one, the Lorentz force, is in this case described by the following:**
 
 $$\boxed{\overrightarrow{F}=I\overrightarrow{l}\times\overrightarrow{B}}$$
+
+
+T.B.C.
