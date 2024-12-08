@@ -5,7 +5,7 @@ The whole idea behind instrument is based on two physical phenomena - waves on a
 
 **The first is described by folowing PDE (partial differential equation):**
 
-$$\boxed{\frac{\partial ^{2} y}{\partial t^{2}}+\gamma\frac{\partial y}{\partial t}-c^{2}\frac{\partial ^{2} y}{\partial x^{2}}=\frac{1}{\rho}F\left( x,t \right)}$$
+$$\boxed{\frac{\partial ^{2} y}{\partial t^{2}}+\gamma\frac{\partial y}{\partial t}-v^{2}\frac{\partial ^{2} y}{\partial x^{2}}=\frac{1}{\rho}F\left( x,t \right)}$$
 
 **The next one, the Lorentz force, is in this case described by the following:**
 
