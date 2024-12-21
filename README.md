@@ -5,14 +5,15 @@ The whole idea behind instrument is based on two physical phenomena - waves on a
 
 **The first is described by folowing PDE (partial differential equation):**
 
-$$\boxed{\frac{\partial ^{2} y}{\partial t^{2}}+\gamma\frac{\partial y}{\partial t}-v^{2}\frac{\partial ^{2} y}{\partial x^{2}}=\frac{1}{\rho}F\left( x,t \right)}$$
+$$\boxed{\frac{\partial ^{2} y}{\partial t^{2}}+\gamma\frac{\partial y}{\partial t}-v^{2}\frac{\partial ^{2} y}{\partial x^{2}}=\frac{1}{\rho}F\left( l,t \right)}$$
 
 **The next one, the Lorentz force, is in this case described by the following:**
 
 $$\boxed{\overrightarrow{F}=I\overrightarrow{l}\times\overrightarrow{B}}$$
 
-**This would result in the following:**
+**This would result with:**
 
 $$\boxed{\frac{\partial ^{2} y}{\partial t^{2}}+\gamma\frac{\partial y}{\partial t}-v^{2}\frac{\partial ^{2} y}{\partial x^{2}}=\frac{I(t)}{\rho}\overrightarrow{l}\times\overrightarrow{B}}$$
 
-T.B.C.
+Which is actually complicated to solve, I guess. I didn't solve it properly yet. But It wasn't particularly necesseary, since all I needed was to estimate currents necesarry to drive individual strings.
+And, as it turns out, those are around 0.5-5 A. Which was reasonable value, possible to achieve with usual power amplifiers.
