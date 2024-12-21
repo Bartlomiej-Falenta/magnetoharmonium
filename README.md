@@ -11,5 +11,8 @@ $$\boxed{\frac{\partial ^{2} y}{\partial t^{2}}+\gamma\frac{\partial y}{\partial
 
 $$\boxed{\overrightarrow{F}=I\overrightarrow{l}\times\overrightarrow{B}}$$
 
+*This would result in the following:*
+
+$$\boxed{\frac{\partial ^{2} y}{\partial t^{2}}+\gamma\frac{\partial y}{\partial t}-v^{2}\frac{\partial ^{2} y}{\partial x^{2}}=\frac{1}{\rho}I\overrightarrow{l}\times\overrightarrow{B}}$$
 
 T.B.C.
