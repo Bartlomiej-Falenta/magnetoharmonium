@@ -20,4 +20,4 @@ Though simulating it wasn't particularly necesseary, since all I needed was to e
 
 Current clonewheel synthesis engine is made in SigmaStudio **specifically** for ADAU1467, which is listed in parts list. It's *generally* based around actual signal path in Hammond organ and likes of them, with current version of algorithm being this:
 
-design_files/dsp_code/Clonewheel_algorithm.png
+https://github.com/Bartlomiej-Falenta/magnetoharmonium/design_files/dsp_code/Clonewheel_algorithm.png
