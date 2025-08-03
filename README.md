@@ -18,6 +18,9 @@ $$\boxed{\frac{\partial ^{2} y}{\partial t^{2}}+\gamma\frac{\partial y}{\partial
 ~~Which is actually complicated to solve, I guess. I didn't solve it properly yet.~~ Ok, I realized I could just solve it with some basic Python packages – now the simulations and their resulting images are available in ```magnetoharmonium/simulations/``` folder, while videos got uploaded to YouTube playlist: https://www.youtube.com/playlist?list=PLDlz_sgCRQ_A4HcRTX_j7dR-LInD_T1PA
 Though simulating it wasn't particularly necesseary, since all I needed was to estimate currents necesarry to drive individual strings. And, as it turns out, those are around 0.5-5 A. Which was reasonable value, possible to achieve with usual power amplifiers, which I already did succesfully on smaller scale with stereo amp connected to two strings and signal fed from electronic synthesizer or an organ.
 
-Current clonewheel synthesis engine is made in SigmaStudio **specifically** for ADAU1467, which is listed in parts list. It's *generally* based around actual signal path in Hammond organ and likes of them, with current version of algorithm being this:
+~~Current clonewheel synthesis engine is made in SigmaStudio **specifically** for ADAU1467, which is listed in parts list.~~ From now on, it's gonna be based around pruned and modified setBfree open source clonewheel organ engine, running on several ESP32-S3 microcontrollers (one as a control, 4 as a signal synthesizers) – that'd make many things easier, smarter and generally more efficient (especially the hardware part may be simplified and several times cheaper!). It's *generally* based around actual signal path in Hammond organ and likes of them, with current version of algorithm being similar to the previous one:
 
 ![IMAGE OF A CURRENT ALGORITHM](/design_files/dsp_code/Clonewheel_algorithm.png)
+
+
+[TO DO: update whole these]
