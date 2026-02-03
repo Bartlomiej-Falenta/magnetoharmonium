@@ -1,0 +1,492 @@
+<?xml version="1.0"?>
+<virtual-controls version="1.0" control-count="13" date="2025-03-08T07:10:42.2386496Z">
+  <control id="1" version="1">
+    <type>Slider</type>
+    <value>13</value>
+    <label>Slider1</label>
+    <properties>
+      <min>0</min>
+      <max>16</max>
+      <res>16</res>
+      <db>False</db>
+    </properties>
+    <parameters count="1">
+      <param version="1.1">
+        <cell>Main.Gain2</cell>
+        <algorithm-ix>0</algorithm-ix>
+        <repeat-ix>0</repeat-ix>
+        <name>Gain</name>
+        <table type="ParamValueTable" count="1">
+          <values version="1" size="16">
+            <val0>0</val0>
+            <val1>0.5</val1>
+            <val2>1</val2>
+            <val3>1.5</val3>
+            <val4>2</val4>
+            <val5>2.5</val5>
+            <val6>3</val6>
+            <val7>3.5</val7>
+            <val8>4</val8>
+            <val9>4.5</val9>
+            <val10>5</val10>
+            <val11>5.5</val11>
+            <val12>6</val12>
+            <val13>6</val13>
+            <val14>6.5</val14>
+            <val15>7</val15>
+          </values>
+        </table>
+      </param>
+    </parameters>
+  </control>
+  <control id="2" version="1">
+    <type>Slider</type>
+    <value>7</value>
+    <label>Slider2</label>
+    <properties>
+      <min>0</min>
+      <max>16</max>
+      <res>16</res>
+      <db>False</db>
+    </properties>
+    <parameters count="1">
+      <param version="1.1">
+        <cell>Main.Gain2_2</cell>
+        <algorithm-ix>0</algorithm-ix>
+        <repeat-ix>0</repeat-ix>
+        <name>Gain</name>
+        <table type="ParamValueTable" count="1">
+          <values version="1" size="16">
+            <val0>0</val0>
+            <val1>0.5</val1>
+            <val2>1</val2>
+            <val3>1.5</val3>
+            <val4>2</val4>
+            <val5>2.5</val5>
+            <val6>3</val6>
+            <val7>3.5</val7>
+            <val8>4</val8>
+            <val9>4.5</val9>
+            <val10>5</val10>
+            <val11>5.5</val11>
+            <val12>6</val12>
+            <val13>6</val13>
+            <val14>6.5</val14>
+            <val15>7</val15>
+          </values>
+        </table>
+      </param>
+    </parameters>
+  </control>
+  <control id="3" version="1">
+    <type>Slider</type>
+    <value>12</value>
+    <label>Slider3</label>
+    <properties>
+      <min>0</min>
+      <max>16</max>
+      <res>16</res>
+      <db>False</db>
+    </properties>
+    <parameters count="1">
+      <param version="1.1">
+        <cell>Main.Gain2_3</cell>
+        <algorithm-ix>0</algorithm-ix>
+        <repeat-ix>0</repeat-ix>
+        <name>Gain</name>
+        <table type="ParamValueTable" count="1">
+          <values version="1" size="16">
+            <val0>0</val0>
+            <val1>0.5</val1>
+            <val2>1</val2>
+            <val3>1.5</val3>
+            <val4>2</val4>
+            <val5>2.5</val5>
+            <val6>3</val6>
+            <val7>3.5</val7>
+            <val8>4</val8>
+            <val9>4.5</val9>
+            <val10>5</val10>
+            <val11>5.5</val11>
+            <val12>6</val12>
+            <val13>6</val13>
+            <val14>6.5</val14>
+            <val15>7</val15>
+          </values>
+        </table>
+      </param>
+    </parameters>
+  </control>
+  <control id="4" version="1">
+    <type>Slider</type>
+    <value>4</value>
+    <label>Slider4</label>
+    <properties>
+      <min>0</min>
+      <max>16</max>
+      <res>16</res>
+      <db>False</db>
+    </properties>
+    <parameters count="1">
+      <param version="1.1">
+        <cell>Main.Gain2_4</cell>
+        <algorithm-ix>0</algorithm-ix>
+        <repeat-ix>0</repeat-ix>
+        <name>Gain</name>
+        <table type="ParamValueTable" count="1">
+          <values version="1" size="16">
+            <val0>0</val0>
+            <val1>0.5</val1>
+            <val2>1</val2>
+            <val3>1.5</val3>
+            <val4>2</val4>
+            <val5>2.5</val5>
+            <val6>3</val6>
+            <val7>3.5</val7>
+            <val8>4</val8>
+            <val9>4.5</val9>
+            <val10>5</val10>
+            <val11>5.5</val11>
+            <val12>6</val12>
+            <val13>6</val13>
+            <val14>6.5</val14>
+            <val15>7</val15>
+          </values>
+        </table>
+      </param>
+    </parameters>
+  </control>
+  <control id="5" version="1">
+    <type>Slider</type>
+    <value>9</value>
+    <label>Slider5</label>
+    <properties>
+      <min>0</min>
+      <max>16</max>
+      <res>16</res>
+      <db>False</db>
+    </properties>
+    <parameters count="1">
+      <param version="1.1">
+        <cell>Main.Gain2_5</cell>
+        <algorithm-ix>0</algorithm-ix>
+        <repeat-ix>0</repeat-ix>
+        <name>Gain</name>
+        <table type="ParamValueTable" count="1">
+          <values version="1" size="16">
+            <val0>0</val0>
+            <val1>0.5</val1>
+            <val2>1</val2>
+            <val3>1.5</val3>
+            <val4>2</val4>
+            <val5>2.5</val5>
+            <val6>3</val6>
+            <val7>3.5</val7>
+            <val8>4</val8>
+            <val9>4.5</val9>
+            <val10>5</val10>
+            <val11>5.5</val11>
+            <val12>6</val12>
+            <val13>6</val13>
+            <val14>6.5</val14>
+            <val15>7</val15>
+          </values>
+        </table>
+      </param>
+    </parameters>
+  </control>
+  <control id="6" version="1">
+    <type>Slider</type>
+    <value>2</value>
+    <label>Slider6</label>
+    <properties>
+      <min>0</min>
+      <max>16</max>
+      <res>16</res>
+      <db>False</db>
+    </properties>
+    <parameters count="1">
+      <param version="1.1">
+        <cell>Main.Gain2_6</cell>
+        <algorithm-ix>0</algorithm-ix>
+        <repeat-ix>0</repeat-ix>
+        <name>dBLinearLabel</name>
+        <table type="ParamValueTable" count="1">
+          <values version="1" size="16">
+            <val0>0</val0>
+            <val1>0.5</val1>
+            <val2>1</val2>
+            <val3>1.5</val3>
+            <val4>2</val4>
+            <val5>2.5</val5>
+            <val6>3</val6>
+            <val7>3.5</val7>
+            <val8>4</val8>
+            <val9>4.5</val9>
+            <val10>5</val10>
+            <val11>5.5</val11>
+            <val12>6</val12>
+            <val13>6</val13>
+            <val14>6.5</val14>
+            <val15>7</val15>
+          </values>
+        </table>
+      </param>
+    </parameters>
+  </control>
+  <control id="7" version="1">
+    <type>Slider</type>
+    <value>14</value>
+    <label>Slider7</label>
+    <properties>
+      <min>0</min>
+      <max>16</max>
+      <res>16</res>
+      <db>False</db>
+    </properties>
+    <parameters count="1">
+      <param version="1.1">
+        <cell>Main.Gain2_7</cell>
+        <algorithm-ix>0</algorithm-ix>
+        <repeat-ix>0</repeat-ix>
+        <name>Gain</name>
+        <table type="ParamValueTable" count="1">
+          <values version="1" size="16">
+            <val0>0</val0>
+            <val1>0.5</val1>
+            <val2>1</val2>
+            <val3>1.5</val3>
+            <val4>2</val4>
+            <val5>2.5</val5>
+            <val6>3</val6>
+            <val7>3.5</val7>
+            <val8>4</val8>
+            <val9>4.5</val9>
+            <val10>5</val10>
+            <val11>5.5</val11>
+            <val12>6</val12>
+            <val13>6</val13>
+            <val14>6.5</val14>
+            <val15>7</val15>
+          </values>
+        </table>
+      </param>
+    </parameters>
+  </control>
+  <control id="8" version="1">
+    <type>Slider</type>
+    <value>0</value>
+    <label>Slider8</label>
+    <properties>
+      <min>0</min>
+      <max>16</max>
+      <res>16</res>
+      <db>False</db>
+    </properties>
+    <parameters count="1">
+      <param version="1.1">
+        <cell>Main.Gain2_8</cell>
+        <algorithm-ix>0</algorithm-ix>
+        <repeat-ix>0</repeat-ix>
+        <name>Gain</name>
+        <table type="ParamValueTable" count="1">
+          <values version="1" size="16">
+            <val0>0</val0>
+            <val1>0.5</val1>
+            <val2>1</val2>
+            <val3>1.5</val3>
+            <val4>2</val4>
+            <val5>2.5</val5>
+            <val6>3</val6>
+            <val7>3.5</val7>
+            <val8>4</val8>
+            <val9>4.5</val9>
+            <val10>5</val10>
+            <val11>5.5</val11>
+            <val12>6</val12>
+            <val13>6</val13>
+            <val14>6.5</val14>
+            <val15>7</val15>
+          </values>
+        </table>
+      </param>
+    </parameters>
+  </control>
+  <control id="9" version="1">
+    <type>Slider</type>
+    <value>0</value>
+    <label>Slider9</label>
+    <properties>
+      <min>0</min>
+      <max>16</max>
+      <res>16</res>
+      <db>False</db>
+    </properties>
+    <parameters count="1">
+      <param version="1.1">
+        <cell>Main.Gain2_9</cell>
+        <algorithm-ix>0</algorithm-ix>
+        <repeat-ix>0</repeat-ix>
+        <name>Gain</name>
+        <table type="ParamValueTable" count="1">
+          <values version="1" size="16">
+            <val0>0</val0>
+            <val1>0.5</val1>
+            <val2>1</val2>
+            <val3>1.5</val3>
+            <val4>2</val4>
+            <val5>2.5</val5>
+            <val6>3</val6>
+            <val7>3.5</val7>
+            <val8>4</val8>
+            <val9>4.5</val9>
+            <val10>5</val10>
+            <val11>5.5</val11>
+            <val12>6</val12>
+            <val13>6</val13>
+            <val14>6.5</val14>
+            <val15>7</val15>
+          </values>
+        </table>
+      </param>
+    </parameters>
+  </control>
+  <control id="10" version="1">
+    <type>Slider</type>
+    <value>0</value>
+    <label>Slider10</label>
+    <properties>
+      <min>0</min>
+      <max>16</max>
+      <res>16</res>
+      <db>False</db>
+    </properties>
+    <parameters count="1">
+      <param version="1.1">
+        <cell>Main.Gain2_10</cell>
+        <algorithm-ix>0</algorithm-ix>
+        <repeat-ix>0</repeat-ix>
+        <name>Gain</name>
+        <table type="ParamValueTable" count="1">
+          <values version="1" size="16">
+            <val0>0</val0>
+            <val1>0.5</val1>
+            <val2>1</val2>
+            <val3>1.5</val3>
+            <val4>2</val4>
+            <val5>2.5</val5>
+            <val6>3</val6>
+            <val7>3.5</val7>
+            <val8>4</val8>
+            <val9>4.5</val9>
+            <val10>5</val10>
+            <val11>5.5</val11>
+            <val12>6</val12>
+            <val13>6</val13>
+            <val14>6.5</val14>
+            <val15>7</val15>
+          </values>
+        </table>
+      </param>
+    </parameters>
+  </control>
+  <control id="11" version="1">
+    <type>Slider</type>
+    <value>11</value>
+    <label>Slider11</label>
+    <properties>
+      <min>0</min>
+      <max>16</max>
+      <res>16</res>
+      <db>False</db>
+    </properties>
+    <parameters count="1">
+      <param version="1.1">
+        <cell>Main.Gain2_11</cell>
+        <algorithm-ix>0</algorithm-ix>
+        <repeat-ix>0</repeat-ix>
+        <name>Gain</name>
+        <table type="ParamValueTable" count="1">
+          <values version="1" size="5">
+            <val0>0</val0>
+            <val1>0.5</val1>
+            <val2>1</val2>
+            <val3>1.5</val3>
+            <val4>2</val4>
+          </values>
+        </table>
+      </param>
+    </parameters>
+  </control>
+  <control id="12" version="1">
+    <type>Slider</type>
+    <value>14</value>
+    <label>Slider12</label>
+    <properties>
+      <min>0</min>
+      <max>16</max>
+      <res>16</res>
+      <db>False</db>
+    </properties>
+    <parameters count="1">
+      <param version="1.1">
+        <cell>Main.Gain2_12</cell>
+        <algorithm-ix>0</algorithm-ix>
+        <repeat-ix>0</repeat-ix>
+        <name>Gain</name>
+        <table type="ParamValueTable" count="1">
+          <values version="1" size="9">
+            <val0>0</val0>
+            <val1>0.5</val1>
+            <val2>1</val2>
+            <val3>1.5</val3>
+            <val4>2</val4>
+            <val5>2.5</val5>
+            <val6>3</val6>
+            <val7>3.5</val7>
+            <val8>4</val8>
+          </values>
+        </table>
+      </param>
+    </parameters>
+  </control>
+  <control id="14" version="1">
+    <type>Knob</type>
+    <value>8</value>
+    <label>Knob14</label>
+    <properties>
+      <min>0</min>
+      <max>16</max>
+      <res>16</res>
+      <db>False</db>
+    </properties>
+    <parameters count="2">
+      <param version="1.1">
+        <cell>Main.Mute1</cell>
+        <algorithm-ix>0</algorithm-ix>
+        <repeat-ix>0</repeat-ix>
+        <name>Mute</name>
+        <table type="ParamValueTable" count="1">
+          <values version="1" size="3">
+            <val0>1</val0>
+            <val1>1</val1>
+            <val2>0</val2>
+          </values>
+        </table>
+      </param>
+      <param version="1.1">
+        <cell>Main.Mute2</cell>
+        <algorithm-ix>0</algorithm-ix>
+        <repeat-ix>0</repeat-ix>
+        <name>Mute</name>
+        <table type="ParamValueTable" count="1">
+          <values version="1" size="3">
+            <val0>0</val0>
+            <val1>1</val1>
+            <val2>1</val2>
+          </values>
+        </table>
+      </param>
+    </parameters>
+  </control>
+</virtual-controls>
