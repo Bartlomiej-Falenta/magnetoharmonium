@@ -20,7 +20,7 @@ Though simulating it wasn't particularly necesseary, since all I needed was to e
 
 ~~Current clonewheel synthesis engine is made in SigmaStudio **specifically** for ADAU1467, which is listed in parts list.~~ From now on, it's gonna be based around pruned and modified setBfree open source clonewheel organ engine, running on single ESP32-S3 microcontroller (one core for a control and signal routing, other as a signal synthesizers) – that'd make many things easier, smarter and generally more efficient (especially the hardware part may be simplified and several times cheaper!). It's *generally* based around actual signal path in Hammond organ and likes of them, with current version of algorithm being similar to the previous one, BUT probably based on hybrid of DDS (for each drawbar/harmonic) and DCO (for all voices/tones) techniques. I'll try writing the synth engine in a way that uses the lowest amount of processing power per each voice of polyphony; mostly by using simplest possible operations whenever possible. In the end, algorithm still has the overall architecture close to this:
 
-![IMAGE OF A CURRENT ALGORITHM](/design_files/dsp_code/Clonewheel_algorithm.png)
+![IMAGE OF A CURRENT ALGORITHM](/design_files/[ARCHIVED]/dsp_code/Clonewheel_algorithm.png)
 
 
 [TO DO: update whole these]
