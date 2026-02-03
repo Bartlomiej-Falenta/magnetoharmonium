@@ -22,5 +22,10 @@ Though simulating it wasn't particularly necesseary, since all I needed was to e
 
 ![IMAGE OF A CURRENT ALGORITHM](/design_files/[ARCHIVED]/dsp_code/Clonewheel_algorithm.png)
 
+While the planned keyboard layout & panel layout look somewhat like these:
+
+![Planned keyboard layout](design_files/artistic_design/front_panel/MagnetoharmoniumKeyboardLayout.png)
+
+![Planned panel layout](design_files/artistic_design/front_panel/Magneharmon_frontPanel.jpg)
 
 [TO DO: update whole these]
